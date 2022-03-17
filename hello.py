@@ -1,6 +1,3 @@
-from operator import le
-
-
 name = 'Afiq Hafizuddin bin Zainal'
 
 print(name)
