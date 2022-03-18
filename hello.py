@@ -12,3 +12,11 @@ def check_name(name):
         print("Valid username")
 
 check_name(name)
+
+# string modification
+
+def double_get(word):
+    return str(word) + str(" ") + str(word) + str(" ")+ str(len(word))
+print(double_get('Hello'))
+print(double_get("Afiq Hafizuddin bin Zainal"))
+print(double_get("JavaScript"))
