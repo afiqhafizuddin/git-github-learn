@@ -1,4 +1,7 @@
-# learn-python
-Repo to learn about GitHub by using Python
+# Learn Git & GitHub
 
-## this is the second commit i try to push
+Repo to learn about GitHub by using Python/JavaScript and other tools.
+
+## Git Basics Commands
+
+## GitHub: Cloud Hosting Services
